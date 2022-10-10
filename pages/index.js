@@ -5,7 +5,7 @@ import Footer from '@components/Footer'
 export default function Home() {
   return (
     <div className="container">
-    <meta name="google-site-verification" content="L5K6NDSMzB1v62M0P08YRXM9cABEWitIgbvgSMLsq-g" />
+   
       <Head>
         <title>IELTS Book Repository</title>
         <link rel="icon" href="/favicon.ico" />
