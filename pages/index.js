@@ -4,6 +4,7 @@ import Footer from '@components/Footer'
 
 export default function Home() {
   return (
+    <meta name="google-site-verification" content="L5K6NDSMzB1v62M0P08YRXM9cABEWitIgbvgSMLsq-g" />
     <div className="container">
    
       <Head>
